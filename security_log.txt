@@ -1,0 +1,6 @@
+Thu, Dec 11, 2025 10:27:08 AM - VARNING: Filen 'test' saknas.
+Thu, Dec 11, 2025 10:27:09 AM - VARNING: Användaren '' saknas.
+Thu, Dec 11, 2025 10:27:09 AM - Kontroller slutförda.
+Thu, Dec 11, 2025 10:44:00 AM - VARNING: Filen 'testfil' saknas.
+Thu, Dec 11, 2025 10:44:27 AM - VARNING: Användaren '<conny' saknas.
+Thu, Dec 11, 2025 10:44:27 AM - Kontroller slutförda.
