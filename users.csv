@@ -1,6 +1,6 @@
-usernam,status
-Anna,active
-Erik,active
-David,disabled
-Sofia,active
-Jonas,disabled
+username,last_login_days,status
+Anna,5,active
+Erik,120,active
+David,200,disabled
+Sofia,15,active
+Jonas,300,disabled
