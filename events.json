@@ -1,12 +1,12 @@
 {
   "events": [
-    {"user": "anna", "event": "failed_login"},
-    {"user": "anna", "event": "failed_login"},
-    {"user": "david", "event": "failed_login"},
-    {"user": "jonas", "event": "failed_login"},
-    {"user": "sofia", "event": "login"},
-    {"user": "erik", "event": "failed_login"},
-    {"user": "erik", "event": "failed_login"},
-    {"user": "erik", "event": "failed_login"}
+    { "user": "Anna", "event": "failed_login" },
+    { "user": "Anna", "event": "failed_login" },
+    { "user": "David", "event": "failed_login" },
+    { "user": "Jonas", "event": "failed_login" },
+    { "user": "Sofia", "event": "login" },
+    { "user": "Erik", "event": "failed_login" },
+    { "user": "Erik", "event": "failed_login" },
+    { "user": "Erik", "event": "failed_login" }
   ]
 }
