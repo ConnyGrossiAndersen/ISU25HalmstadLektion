@@ -40,20 +40,21 @@ check_process() {
 # Om filen saknas kommer ett felmeddelande sedan stängs loopen. 
 # Om filen existerar, läser programmet av filen och kontrollerar vilka processer som körs. 
 run_checks() {
-    local minafiler=$1
+    local minalistor=$1
 
-    if [ ! -f "$minafiler" ]; then
-        log "FEL: Filen $minafiler saknas."
+    if [ ! -f "$minalistor" ]; then
+        log "FEL: Filen $minalistor saknas."
         exit 1
     fi
 
     while read -r rad; do
         check_process "$rad"
-    done < "$minafiler"
+    done < "$minalistor"
 }
 
 #Här anropar jag funktionen run_checks som först kontrollerar om filen existerar, sedan läser av vald fil för att kontrollera
 # vilka av  processerna i listan som körs.  (Loggar sedan att kontrollerna slutfördes.)  
 run_checks "$ProcessLista"
 log "Kontroller slutförda."
+
 
