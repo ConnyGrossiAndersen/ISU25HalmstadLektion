@@ -20,3 +20,65 @@
 2025-12-25 10:29:03 -Antal misslyckade inloggningar: 2
 2025-12-25 10:29:03 -Antal errors: 2
 2025-12-25 10:29:03 -Antal obehöriga försök: 1
+ - Avvikande meddelande hittat: User anna failed login attempt
+ - Avvikande meddelande hittat: System error: disk not found
+ - Avvikande meddelande hittat: System error: disk not found
+ - Avvikande meddelande hittat: User anna failed login attempt
+ - Avvikande meddelande hittat: Error reading configuration file
+ - Avvikande meddelande hittat: Error reading configuration file
+ - ANALYS KLAR
+ - Antal misslyckade inloggningar: 2
+ - Antal errors: Cannot bind parameter 'Date'. Cannot convert value "+%Y-%m-%d %H:%M:%S" to type "System.DateTime". Error: "String '+%Y-%m-%d %H:%M:%S' was not recognized as a valid DateTime." Cannot bind parameter 'Date'. Cannot convert value "+%Y-%m-%d %H:%M:%S" to type "System.DateTime". Error: "String '+%Y-%m-%d %H:%M:%S' was not recognized as a valid DateTime." Cannot bind parameter 'Date'. Cannot convert value "+%Y-%m-%d %H:%M:%S" to type "System.DateTime". Error: "String '+%Y-%m-%d %H:%M:%S' was not recognized as a valid DateTime." The '++' operator works only on numbers. The operand is a 'System.Collections.ArrayList'. Cannot bind parameter 'Date'. Cannot convert value "+%Y-%m-%d %H:%M:%S" to type "System.DateTime". Error: "String '+%Y-%m-%d %H:%M:%S' was not recognized as a valid DateTime." Cannot bind parameter 'Date'. Cannot convert value "+%Y-%m-%d %H:%M:%S" to type "System.DateTime". Error: "String '+%Y-%m-%d %H:%M:%S' was not recognized as a valid DateTime." Cannot bind parameter 'Date'. Cannot convert value "+%Y-%m-%d %H:%M:%S" to type "System.DateTime". Error: "String '+%Y-%m-%d %H:%M:%S' was not recognized as a valid DateTime." The '++' operator works only on numbers. The operand is a 'System.Collections.ArrayList'. Cannot bind parameter 'Date'. Cannot convert value "+%Y-%m-%d %H:%M:%S" to type "System.DateTime". Error: "String '+%Y-%m-%d %H:%M:%S' was not recognized as a valid DateTime." Cannot bind parameter 'Date'. Cannot convert value "+%Y-%m-%d %H:%M:%S" to type "System.DateTime". Error: "String '+%Y-%m-%d %H:%M:%S' was not recognized as a valid DateTime." Cannot overwrite variable Error because it is read-only or constant. The term 'dos2unix' is not recognized as a name of a cmdlet, function, script file, or executable program.
+Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+ - Antal obehöriga försök: 2
+12/25/2025 11:02:38 - Avvikande meddelande hittat: User anna failed login attempt
+12/25/2025 11:02:38 - Avvikande meddelande hittat: System error: disk not found
+12/25/2025 11:02:38 - Avvikande meddelande hittat: System error: disk not found
+12/25/2025 11:02:38 - Avvikande meddelande hittat: User anna failed login attempt
+12/25/2025 11:02:38 - Avvikande meddelande hittat: Error reading configuration file
+12/25/2025 11:02:38 - Avvikande meddelande hittat: Error reading configuration file
+12/25/2025 11:02:38 - ANALYS KLAR
+12/25/2025 11:02:38 - Antal misslyckade inloggningar: 2
+12/25/2025 11:02:38 - Antal errors: The '++' operator works only on numbers. The operand is a 'System.Collections.ArrayList'. The '++' operator works only on numbers. The operand is a 'System.Collections.ArrayList'. Cannot overwrite variable Error because it is read-only or constant. Cannot bind parameter 'Date'. Cannot convert value "+%Y-%m-%d %H:%M:%S" to type "System.DateTime". Error: "String '+%Y-%m-%d %H:%M:%S' was not recognized as a valid DateTime." Cannot bind parameter 'Date'. Cannot convert value "+%Y-%m-%d %H:%M:%S" to type "System.DateTime". Error: "String '+%Y-%m-%d %H:%M:%S' was not recognized as a valid DateTime." Cannot bind parameter 'Date'. Cannot convert value "+%Y-%m-%d %H:%M:%S" to type "System.DateTime". Error: "String '+%Y-%m-%d %H:%M:%S' was not recognized as a valid DateTime." Cannot bind parameter 'Date'. Cannot convert value "+%Y-%m-%d %H:%M:%S" to type "System.DateTime". Error: "String '+%Y-%m-%d %H:%M:%S' was not recognized as a valid DateTime." Cannot bind parameter 'Date'. Cannot convert value "+%Y-%m-%d %H:%M:%S" to type "System.DateTime". Error: "String '+%Y-%m-%d %H:%M:%S' was not recognized as a valid DateTime." The '++' operator works only on numbers. The operand is a 'System.Collections.ArrayList'. Cannot bind parameter 'Date'. Cannot convert value "+%Y-%m-%d %H:%M:%S" to type "System.DateTime". Error: "String '+%Y-%m-%d %H:%M:%S' was not recognized as a valid DateTime." Cannot bind parameter 'Date'. Cannot convert value "+%Y-%m-%d %H:%M:%S" to type "System.DateTime". Error: "String '+%Y-%m-%d %H:%M:%S' was not recognized as a valid DateTime." Cannot bind parameter 'Date'. Cannot convert value "+%Y-%m-%d %H:%M:%S" to type "System.DateTime". Error: "String '+%Y-%m-%d %H:%M:%S' was not recognized as a valid DateTime." The '++' operator works only on numbers. The operand is a 'System.Collections.ArrayList'. Cannot bind parameter 'Date'. Cannot convert value "+%Y-%m-%d %H:%M:%S" to type "System.DateTime". Error: "String '+%Y-%m-%d %H:%M:%S' was not recognized as a valid DateTime." Cannot bind parameter 'Date'. Cannot convert value "+%Y-%m-%d %H:%M:%S" to type "System.DateTime". Error: "String '+%Y-%m-%d %H:%M:%S' was not recognized as a valid DateTime." Cannot overwrite variable Error because it is read-only or constant. The term 'dos2unix' is not recognized as a name of a cmdlet, function, script file, or executable program.
+Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+12/25/2025 11:02:38 - Antal obehöriga försök: 2
+12/25/2025 11:04:57 - Avvikande meddelande hittat: User anna failed login attempt
+12/25/2025 11:04:57 - Avvikande meddelande hittat: System error: disk not found
+12/25/2025 11:04:57 - Avvikande meddelande hittat: System error: disk not found
+12/25/2025 11:04:57 - Avvikande meddelande hittat: User anna failed login attempt
+12/25/2025 11:04:57 - Avvikande meddelande hittat: Error reading configuration file
+12/25/2025 11:04:57 - Avvikande meddelande hittat: Error reading configuration file
+12/25/2025 11:04:57 - ANALYS KLAR
+12/25/2025 11:04:57 - Antal misslyckade inloggningar: 2
+12/25/2025 11:04:57 - Antal errors: The '++' operator works only on numbers. The operand is a 'System.Collections.ArrayList'. The '++' operator works only on numbers. The operand is a 'System.Collections.ArrayList'. Cannot overwrite variable Error because it is read-only or constant. Cannot bind parameter 'Date'. Cannot convert value "+%Y-%m-%d %H:%M:%S" to type "System.DateTime". Error: "String '+%Y-%m-%d %H:%M:%S' was not recognized as a valid DateTime." Cannot bind parameter 'Date'. Cannot convert value "+%Y-%m-%d %H:%M:%S" to type "System.DateTime". Error: "String '+%Y-%m-%d %H:%M:%S' was not recognized as a valid DateTime." Cannot bind parameter 'Date'. Cannot convert value "+%Y-%m-%d %H:%M:%S" to type "System.DateTime". Error: "String '+%Y-%m-%d %H:%M:%S' was not recognized as a valid DateTime." Cannot bind parameter 'Date'. Cannot convert value "+%Y-%m-%d %H:%M:%S" to type "System.DateTime". Error: "String '+%Y-%m-%d %H:%M:%S' was not recognized as a valid DateTime." Cannot bind parameter 'Date'. Cannot convert value "+%Y-%m-%d %H:%M:%S" to type "System.DateTime". Error: "String '+%Y-%m-%d %H:%M:%S' was not recognized as a valid DateTime." The '++' operator works only on numbers. The operand is a 'System.Collections.ArrayList'. Cannot bind parameter 'Date'. Cannot convert value "+%Y-%m-%d %H:%M:%S" to type "System.DateTime". Error: "String '+%Y-%m-%d %H:%M:%S' was not recognized as a valid DateTime." Cannot bind parameter 'Date'. Cannot convert value "+%Y-%m-%d %H:%M:%S" to type "System.DateTime". Error: "String '+%Y-%m-%d %H:%M:%S' was not recognized as a valid DateTime." Cannot bind parameter 'Date'. Cannot convert value "+%Y-%m-%d %H:%M:%S" to type "System.DateTime". Error: "String '+%Y-%m-%d %H:%M:%S' was not recognized as a valid DateTime." The '++' operator works only on numbers. The operand is a 'System.Collections.ArrayList'. Cannot bind parameter 'Date'. Cannot convert value "+%Y-%m-%d %H:%M:%S" to type "System.DateTime". Error: "String '+%Y-%m-%d %H:%M:%S' was not recognized as a valid DateTime." Cannot bind parameter 'Date'. Cannot convert value "+%Y-%m-%d %H:%M:%S" to type "System.DateTime". Error: "String '+%Y-%m-%d %H:%M:%S' was not recognized as a valid DateTime." Cannot overwrite variable Error because it is read-only or constant. The term 'dos2unix' is not recognized as a name of a cmdlet, function, script file, or executable program.
+Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+12/25/2025 11:04:57 - Antal obehöriga försök: 2
+12/25/2025 11:07:36 - Avvikande meddelande hittat: User anna failed login attempt
+12/25/2025 11:07:36 - Avvikande meddelande hittat: System error: disk not found
+12/25/2025 11:07:36 - Avvikande meddelande hittat: System error: disk not found
+12/25/2025 11:07:36 - Avvikande meddelande hittat: User anna failed login attempt
+12/25/2025 11:07:36 - Avvikande meddelande hittat: Error reading configuration file
+12/25/2025 11:07:36 - Avvikande meddelande hittat: Error reading configuration file
+12/25/2025 11:07:36 - ANALYS KLAR
+12/25/2025 11:07:36 - Antal misslyckade inloggningar: 2
+12/25/2025 11:07:36 - Antal errors: 2
+12/25/2025 11:07:36 - Antal obehöriga försök: 2
+12/25/2025 11:09:34 - Avvikande meddelande hittat: User anna failed login attempt
+12/25/2025 11:09:34 - Avvikande meddelande hittat: System error: disk not found
+12/25/2025 11:09:34 - Avvikande meddelande hittat: System error: disk not found
+12/25/2025 11:09:34 - Avvikande meddelande hittat: User anna failed login attempt
+12/25/2025 11:09:34 - Avvikande meddelande hittat: Error reading configuration file
+12/25/2025 11:09:34 - Avvikande meddelande hittat: Error reading configuration file
+12/25/2025 11:09:34 - ANALYS KLAR
+12/25/2025 11:09:34 - Antal misslyckade inloggningar: 2
+12/25/2025 11:09:34 - Antal errors: 2
+12/25/2025 11:09:34 - Antal obehöriga försök: 2
+12/25/2025 11:12:48 - Avvikande meddelande hittat: User anna failed login attempt
+12/25/2025 11:12:48 - Avvikande meddelande hittat: System error: disk not found
+12/25/2025 11:12:48 - Avvikande meddelande hittat: Unauthorized access attempt from 10.0.0.55
+12/25/2025 11:12:48 - Avvikande meddelande hittat: User anna failed login attempt
+12/25/2025 11:12:48 - Avvikande meddelande hittat: Error reading configuration file
+12/25/2025 11:12:48 - ANALYS KLAR
+12/25/2025 11:12:48 - Antal misslyckade inloggningar: 2
+12/25/2025 11:12:48 - Antal errors: 2
+12/25/2025 11:12:48 - Antal obehöriga försök: 1
