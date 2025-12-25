@@ -1,0 +1,22 @@
+2025-12-25 10:17:23 - ANALYS KLAR
+2025-12-25 10:17:24 - Antal failed: 0
+2025-12-25 10:17:24 - Antal error: 0
+2025-12-25 10:17:24 - Antal unauthorized: 0
+2025-12-25 10:26:07 -Misslyckat inloggningsförsök: User anna failed login attempt
+2025-12-25 10:26:08 -Misslyckat inloggningsförsök: System error: disk not found
+2025-12-25 10:26:08 -Misslyckat inloggningsförsök: Unauthorized access attempt from 10.0.0.55
+2025-12-25 10:26:08 -Misslyckat inloggningsförsök: User anna failed login attempt
+2025-12-25 10:26:09 -Misslyckat inloggningsförsök: Error reading configuration file
+2025-12-25 10:26:09 -ANALYS KLAR
+2025-12-25 10:26:09 -Antal misslyckade inloggningar: 2
+2025-12-25 10:26:09 -Antal errors: 2
+2025-12-25 10:26:09 -Antal obehöriga försök: 1
+2025-12-25 10:29:01 -Avvikande meddelande hittat: User anna failed login attempt
+2025-12-25 10:29:02 -Avvikande meddelande hittat: System error: disk not found
+2025-12-25 10:29:02 -Avvikande meddelande hittat: Unauthorized access attempt from 10.0.0.55
+2025-12-25 10:29:02 -Avvikande meddelande hittat: User anna failed login attempt
+2025-12-25 10:29:03 -Avvikande meddelande hittat: Error reading configuration file
+2025-12-25 10:29:03 -ANALYS KLAR
+2025-12-25 10:29:03 -Antal misslyckade inloggningar: 2
+2025-12-25 10:29:03 -Antal errors: 2
+2025-12-25 10:29:03 -Antal obehöriga försök: 1
