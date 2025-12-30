@@ -15,8 +15,8 @@ with open ("pevents.json") as f:
 users = {}
 with open("pusers.csv") as f:
     reader = csv.DictReader(f)
-for row in reader:
-    users[row["username"]] = {
+    for row in reader:
+        users[row["username"]] = {
         "status":row["status"],
         "fails":0
     }
