@@ -47,8 +47,8 @@ def classify(userinfo):
 with open("risk_report.txt","w") as report:
     for username, info in users.items():
         risk = classify(info)
-    report.write(f"{username}: {risk} (fails: {info['fails']}, status: {info['status']})\n")
-    print("Analysen är klar.Se risk_report.txt.")
+        report.write(f"{username}: {risk} (fails: {info['fails']}, status: {info['status']})\n")
+    print("Analysen är klar. Se risk_report.txt.")
 
                           
     
