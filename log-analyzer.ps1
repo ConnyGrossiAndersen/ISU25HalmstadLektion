@@ -16,7 +16,7 @@ function Write-Log {
 #       -- Ange variabler för räknaren till felmeddelande --
 #
 $failed=0 
-$errors=0   #Får felmeddelande här som jag går tillbaka till --
+$errors=0   #Får felmeddelande här som jag går tillbaka till -- (fick inte heta $error)
 $unauth=0
 #
 #
